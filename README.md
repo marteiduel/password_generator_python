@@ -1,4 +1,4 @@
-# password_generator_python
+# Password Generator (Python)
 password generator python
 
 This is a practice project to work on my Python skills. 
